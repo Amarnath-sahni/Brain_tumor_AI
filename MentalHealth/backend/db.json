@@ -1,0 +1,244 @@
+{
+  "users": [
+    {
+      "id": "8d24",
+      "username": "test1",
+      "email": "test1@gmail.com",
+      "password": "12345678"
+    },
+    {
+      "id": "3e63",
+      "username": "test2",
+      "email": "test2@gmail.com",
+      "password": "12345678"
+    },
+    {
+      "id": "e803",
+      "username": "test3",
+      "email": "test3@gmail.com",
+      "password": "12345678"
+    },
+    {
+      "id": "bfb2",
+      "username": "test4",
+      "email": "test4@gmail.com",
+      "password": "12345678"
+    },
+    {
+      "id": "f399",
+      "username": "test5",
+      "email": "test5@gmail.com",
+      "password": "12345678"
+    },
+    {
+      "id": "8343",
+      "username": "test6",
+      "email": "test6@gmail.com",
+      "password": "123456789"
+    },
+    {
+      "id": "bd08",
+      "username": "utk",
+      "email": "utk@gmail.com",
+      "password": "12345678"
+    },
+    {
+      "id": "f5a7",
+      "email": "amarnath.sahni@speqto.com",
+      "password": "1234"
+    },
+    {
+      "id": "7001",
+      "name": "amarnath",
+      "email": "ak@gmail.com",
+      "password": "1234"
+    },
+    {
+      "id": "c53e",
+      "name": "Amarnath",
+      "email": "ak@gmail.com",
+      "password": "1234"
+    },
+    {
+      "id": "ead6",
+      "name": "amarnath",
+      "email": "amar@gmail.com",
+      "password": "1234"
+    },
+    {
+      "id": "ef98",
+      "name": "amarnath",
+      "email": "ak@gmail.com",
+      "password": "1234"
+    },
+    {
+      "id": "630a",
+      "email": "amarnath.sahni@speqto.com",
+      "password": "1234Amar"
+    },
+    {
+      "id": "d0a8",
+      "email": "amarnath.sahni@speqto.com",
+      "password": "1234Amar"
+    },
+    {
+      "id": "b6c1",
+      "email": "amarnath.sahni@speqto.com",
+      "password": "1234Amar"
+    },
+    {
+      "id": "7204",
+      "email": "amarnath.sahni@speqto.com",
+      "password": "1234Amar"
+    },
+    {
+      "id": "02d0",
+      "email": "",
+      "password": ""
+    },
+    {
+      "id": "474a",
+      "email": "amarnath.sahni@speqto.com",
+      "password": "1234Amar"
+    },
+    {
+      "id": "92e3",
+      "email": "amarnath.sahni@speqto.com",
+      "password": "1234"
+    },
+    {
+      "id": "178a",
+      "email": "amarnath.sahni@speqto.com",
+      "password": "1234Amarhjk"
+    },
+    {
+      "id": "e8e0",
+      "email": "amarnath.sahni@speqto.com",
+      "password": "123455"
+    },
+    {
+      "id": "d3f4",
+      "email": "amarnath.sahni@speqto.com",
+      "password": "1234Amar"
+    },
+    {
+      "id": "0560",
+      "email": "amarnath.sahni@speqto.com",
+      "password": "1234Amar"
+    },
+    {
+      "id": "af64",
+      "email": "amarnath.sahni@speqto.com",
+      "password": "1234"
+    },
+    {
+      "id": "2a08",
+      "name": "Amarnath Sahni",
+      "email": "amarnath.sahni@speqto.com",
+      "password": "1234"
+    },
+    {
+      "id": "b7fe",
+      "name": "utk",
+      "email": "utk@gmail.com",
+      "password": "12345678"
+    },
+    {
+      "id": "2243",
+      "email": "utk@gmail.com",
+      "password": "12345678",
+      "name": "utk"
+    }
+  ],
+  "blogs": [
+    {
+      "title": "Recognizing Depression Signs",
+      "description": "Early recognition of depression symptoms like persistent sadness, lack of motivation, or withdrawal from social activities can help in seeking timely support.",
+      "category": "Mental Health Awareness",
+      "createdBy": {
+        "_id": "mh004",
+        "userName": "Dr. Vikas Singh, Psychiatrist"
+      },
+      "createdAt": "2025-08-18T16:30:00Z",
+      "id": "d563"
+    },
+    {
+      "title": "The Importance of Therapy",
+      "description": "Therapy and counseling can provide guidance and coping strategies to manage anxiety, trauma, and other mental health challenges. Seeking professional help is a sign of strength, not weakness.",
+      "category": "Therapy",
+      "createdBy": {
+        "_id": "mh005",
+        "userName": "Dr. Sonal Mehta, Licensed Therapist"
+      },
+      "createdAt": "2025-08-19T12:20:00Z",
+      "id": "e332"
+    },
+    {
+      "id": "13f4",
+      "title": "Mindfulness Practices",
+      "description": "Mindfulness meditation, yoga, and breathing exercises can reduce stress and enhance emotional well-being. Practicing mindfulness daily encourages presence and calmness.",
+      "createdBy": {
+        "name": "Dr. Dev, Meditation Specialist"
+      },
+      "createdAt": "2025-12-15T11:51:30.585Z"
+    },
+    {
+      "id": "b712",
+      "title": "Self-Compassion and Positivity",
+      "description": "Being kind to yourself, celebrating small achievements, and focusing on positive aspects of life can strengthen mental resilience and reduce negative self-talk.",
+      "createdBy": {
+        "id": "mh006",
+        "name": "Dr. Amarnath, Psychotherapist",
+        "email": "amarnath@mentalhealth.com"
+      },
+      "createdAt": "2025-12-15T12:46:58.404Z"
+    },
+    {
+      "id": "be58",
+      "title": "Mental Health",
+      "description": "It's care about your conscious of thinking like what you are thinking and what you are trying say about yourself that's the subconsciousness",
+      "category": "About mind",
+      "createdBy": {}
+    },
+    {
+      "id": "a541",
+      "title": "Hello Everyone How's ",
+      "description": "sdfgh",
+      "category": "QWERTY ",
+      "createdBy": {
+        "_id": "af64",
+        "userName": "amarnath.sahni@speqto.com"
+      }
+    },
+    {
+      "id": "b63b",
+      "title": "Mind wellness",
+      "description": "This is a thing thats called ",
+      "category": "Wellness and positive vive",
+      "createdBy": {
+        "_id": "af64",
+        "userName": "amarnath.sahni@speqto.com"
+      }
+    },
+    {
+      "id": "e53c",
+      "title": "How the Human Brain Works",
+      "description": "The human brain is the control center of the body. It controls how we think, feel, move, remember, and make decisions. Even though it weighs only about 1.4 kilograms, it is one of the most complex organs in the body.",
+      "category": "Metal Health Studies ",
+      "createdBy": {
+        "_id": "af64",
+        "userName": "amarnath.sahni@speqto.com"
+      }
+    },
+    {
+      "id": "5972",
+      "title": "The Brain and Neurons",
+      "description": "The brain is made up of billions of tiny cells called neurons. Neurons communicate with each other using electrical and chemical signals. These signals travel very fast and allow us to react, think, and process information.\n\nWhen you see something, hear a sound, or touch something hot, neurons send messages through the nervous system to your brain. The brain then processes this information and tells your body how to respond.",
+      "category": "Brain Neurons",
+      "createdBy": {
+        "_id": "af64",
+        "userName": "amarnath.sahni@speqto.com"
+      }
+    }
+  ]
+}
